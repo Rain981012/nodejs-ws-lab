@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="105c06c8-0a13-4e5c-85ea-017f1055e5a9" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+>>>>>>> 90df545356afdb43c730a86b1ce3d9a804c5cd3d
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +21,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client.ts">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="249">
               <caret line="162" selection-start-line="162" selection-end-line="162" />
+=======
+            <state relative-caret-position="148">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+>>>>>>> 90df545356afdb43c730a86b1ce3d9a804c5cd3d
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,11 +54,14 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> 90df545356afdb43c730a86b1ce3d9a804c5cd3d
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -56,6 +70,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 90df545356afdb43c730a86b1ce3d9a804c5cd3d
   <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
     <option name="height" value="840" />
@@ -130,6 +146,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13" />
@@ -149,6 +166,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="162" selection-start-line="162" selection-end-line="162" />
+=======
+    <entry file="file://$PROJECT_DIR$/client.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+>>>>>>> 90df545356afdb43c730a86b1ce3d9a804c5cd3d
         </state>
       </provider>
     </entry>
